@@ -1,18 +1,56 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@hishprorg/eius-vero-dicta",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "scripts": {},
+  "author": "nareshkumarjaggi",
   "license": "MIT",
+  "dependencies": {
+    "@dramaorg/esse-praesentium-eligendi": "^1.0.4",
+    "@hishprorg/perspiciatis-ratione-unde": "^1.0.0",
+    "@hishprorg/sint-nam-consequuntur": "^1.0.0",
+    "@hishprorg/wafflejs": "^1.0.0",
+    "@juigorg/sit-nam-neque": "^1.0.4",
+    "@kollorg/dicta-itaque-nemo": "^1.0.4",
+    "@swenkerorg/modi-dolorum-provident": "^1.1.3",
+    "@zitterorg/aspernatur-pariatur-occaecati": "^1.1.3",
+    "analsorhost-simple-bs": "^1.0.1",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-assi-animation": "^1.0.1",
+    "simple-prompts-web3": "^1.0.1"
+  },
+  "keywords": [
+    "readablestream",
+    "waf",
+    "JSON",
+    "writable",
+    "read",
+    "Streams",
+    "buffer",
+    "busy",
+    "regular expressions",
+    "colors",
+    "classes",
+    "query",
+    "es2016",
+    "toobject",
+    "stream",
+    "proto",
+    "Object.values",
+    "syntax",
+    "every",
+    "performance"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/hishprorg/eius-vero-dicta.git"
   },
-  "dependencies": {
-    
+  "homepage": "https://github.com/hishprorg/eius-vero-dicta/#readme",
+  "bugs": {
+    "url": "https://github.com/hishprorg/eius-vero-dicta/issues"
   }
 }
